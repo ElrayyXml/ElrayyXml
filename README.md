@@ -34,7 +34,7 @@ My focus is on learning the fundamentals of programming and contributing to mean
   <a href="https://tiktok.com/@elrayyxml" target="_blank">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://wa.me/+6289526377530" target="_blank">
+  <a href="https://wa.me/6289526377530" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:elrayyxml68@gmail.com" target="_blank">
@@ -43,4 +43,4 @@ My focus is on learning the fundamentals of programming and contributing to mean
 </p>
 
 ---
-*Created by ElrayyXml*
+*© Copyright By ElrayyXml*

@@ -6,6 +6,9 @@ I'm ElrayyXml, a beginner in the world of coding, dedicated to exploring technol
 My focus is on learning the fundamentals of programming and contributing to meaningful projects. I aim to build practical solutions and grow within the open-source community.
 
 ### GitHub Statistic
+
+<div align="center">
+
 <p align="left">
 <a href="https://github.com/ElrayyXml">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElrayyXml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,12 +21,16 @@ My focus is on learning the fundamentals of programming and contributing to mean
 </a>
 </p>
 
+</div>
+
 ### Learning Projects
 - Developing simple applications to gain practical experience.
 - Experimenting with interactive, real-time features.
 - View all projects on [my GitHub](https://github.com/ElrayyXml).
 
 ### Where to find me
+<div align="center">
+  
 <p>
   <a href="https://github.com/ElrayyXml" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,6 +48,8 @@ My focus is on learning the fundamentals of programming and contributing to mean
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 *© Copyright By ElrayyXml*

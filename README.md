@@ -52,4 +52,12 @@ My focus is on learning the fundamentals of programming and contributing to mean
 </div>
 
 ---
-*© Copyright By ElrayyXml*
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+<div align="center">
+
+## © Copyright By ElrayyXml
+
+</div>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
